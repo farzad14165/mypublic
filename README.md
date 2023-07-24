@@ -9,3 +9,8 @@ after Installing Logstash, remove the confd content, and write your customized c
 Kafka manager:
 
 ![plot](https://github.com/farzad14165/pics/blob/main/Untitled.png)
+
+Kibana showing fake name, address, etc.
+
+
+![plot](https://github.com/farzad14165/pics/blob/main/kibana.png)
