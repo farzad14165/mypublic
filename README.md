@@ -8,4 +8,4 @@ after Installing Logstash, remove the confd content, and write your customized c
 
 Kafka manager:
 
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![plot](https://github.com/farzad14165/pics/blob/main/Untitled.png)
